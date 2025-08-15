@@ -29,7 +29,7 @@ Detects:
 ## Installation (Python Script Version)
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Stranger-web-png/red-team-toolkit-Hacking-.git
+   git clone https://github.com/Stranger-web-png/scanner.git
    cd scanner
    pip install -r requirements.txt
    python main.py
