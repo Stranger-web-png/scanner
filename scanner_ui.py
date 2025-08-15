@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-RedHunter_UI_Pro.py — polished merged scanner (UI + network + web vuln)
+Stranger_Hackathon_Web_Scanner.py — polished merged scanner (UI + network + web vuln)
 
 Usage:
     pip install requests beautifulsoup4
-    python RedHunter_UI_Pro.py
+python Stranger_Hackathon_Web_Scanner.py
 
 Notes:
 - Use only on targets you own or have permission to test.
